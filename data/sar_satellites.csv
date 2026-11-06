@@ -1,0 +1,6 @@
+satellite,operator,sensor_type,primary_application
+Sentinel-1,ESA/Copernicus,SAR,Flood monitoring
+RADARSAT Constellation Mission,Canadian Space Agency,SAR,Maritime and disaster monitoring
+ICEYE constellation,ICEYE,SAR,Disaster monitoring
+Capella constellation,Capella Space,SAR,High-resolution monitoring
+  
